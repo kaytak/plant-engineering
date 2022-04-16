@@ -201,7 +201,7 @@
       "netstandard.dll": "sha256-klcvWVyHimPfDxg6W1A076EKpCB5ySxjtc7sxJEsGgE=",
       "System.Private.CoreLib.dll": "sha256-Y8kdbfPQ0YoYLGbOgzRmoVsnuMYNlA1hvLvDWFTtzrk=",
       "csipopt.dll": "sha256-o9lF+pA1uByh8nOO7QSs\/cH9crWMQpaaVbPq2u8V0VQ=",
-      "DTL.Core.dll": "sha256-thoMEijjYnD1obPg8Bq90KhVSsYESa0Uxez3kpXNGbg=",
+      "DTL.Core.dll": "sha256-y2pr7eDog\/oRQ6U2oGpd2WO5GC1HsFjEzfSLTot8s\/I=",
       "DTL.UnitOperations.dll": "sha256-4nkmZLy15Br6IjFj0sRfXMONbmlRGrjePwMY2rLUw+U=",
       "Mapack.dll": "sha256-Iz7MKi+L2HK8pJ+mLNpvHvB+ksGmSfIUSIhYkZQ\/xTw=",
       "Blazor1.dll": "sha256-Aaw2\/D9i5eP2L3l\/le53t24hSjrdwKbwNG1iHwDyI8w="
@@ -210,7 +210,7 @@
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "DTL.Core.pdb": "sha256-c\/iyW\/eJ\/P8cIp9V4AAIbGub8FtuWYiYUhg\/e724ocs=",
+      "DTL.Core.pdb": "sha256-wKOy91Msqoy+c69Oh7lmo+9uA932KItiC+ufxxwk6vA=",
       "DTL.UnitOperations.pdb": "sha256-Txr\/cZsBpTvLvp66v1nush9UtSZeAk3cZCu2yk6wl7Y=",
       "csipopt.pdb": "sha256-0hnoTyUp6PexXSq4vcSvidzn4Qsk\/bTtwUSqQTKYLmc=",
       "Mapack.pdb": "sha256-egqbXbfwrK0M94gweJ4a4uySvDhVkCUWE2\/RNF0hH3s=",
