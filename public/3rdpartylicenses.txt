@@ -284,7 +284,7 @@ Apache-2.0
 aio-ext
 
 complex.js
-MIT OR GPL-2.0
+MIT
 MIT License
 
 Copyright (c) 2018 Robert Eisele
@@ -312,7 +312,7 @@ decimal.js
 MIT
 The MIT Licence.
 
-Copyright (c) 2020 Michael Mclaughlin
+Copyright (c) 2021 Michael Mclaughlin
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
